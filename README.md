@@ -4,7 +4,7 @@
 
 
 
-### Te invito a que lo conozcas haciendo click en este [enlace](https://krisgerald02.github.io/Portafolios-Webs//) 
+### Te invito a que lo conozcas haciendo click en este [enlace](https://krisgerald02.github.io/Portafolios-Webs/) 
 
 
 ### Así debería verse el proyecto:
